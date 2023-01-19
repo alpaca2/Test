@@ -10,6 +10,7 @@ public class Missile : MonoBehaviourPun
     private float speed = 10.0f;
     private float duration = 5.0f;
     private bool isShoot = false;
+    
 
 
     private void Update()
